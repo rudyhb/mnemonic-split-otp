@@ -8,6 +8,7 @@ Split a mnemonic phrase `S` into either
 
 Based on https://tylerchambers.net/posts/2of3/
 
+**Note: in these examples I use mnemonics length 3 for simplicity. For normal cases these should be length 12 or 24.**
 ## 2 of 2 Splitting
 
 You will need both of these outputs (`A` and `B`) to recover secret `S`.
